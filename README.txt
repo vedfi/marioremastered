@@ -16,6 +16,7 @@ BUGS
 -Collision detection is not perfect.
 
 NOTES
+-Animations are only coded for mario so there is no animation for other entities.
 -Game doesn't end. Because game over codes are not included.
   You can do below steps to let the game end.
   +Check for player.position.Y>600 in game loop and call exit()
