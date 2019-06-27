@@ -4,6 +4,9 @@ This project created for educational purposes only.
 Built with C# & Monogame/XNA Framework
 This is just a pre-alpha build so keep that in mind.
 
+GAMEPLAY DEMO
+https://youtu.be/dPrCx_m7TiA
+
 CONTROLS
 -Arrow keys to move.
 -X to change state of player.
